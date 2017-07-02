@@ -52,4 +52,4 @@ Do what the fuck you want license
 
 _Note: this is really just a learning project that I aim to use as a reference
 for when I need to actually use AWS in real world client/work projects. It will
-certainly evolve as a learn more about the AWS and S3
+certainly evolve as a learn more about the AWS and S3_
