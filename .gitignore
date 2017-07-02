@@ -1,5 +1,4 @@
 ENV__s3-flask/
 *.pyc
 __pycache__
-flask_s3_upload/config.py
 flask_s3_upload/uploads/*
